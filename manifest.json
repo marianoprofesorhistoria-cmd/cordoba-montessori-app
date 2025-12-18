@@ -1,0 +1,24 @@
+
+{
+  "short_name": "Montessori",
+  "name": "Córdoba Montessori - Portal Docente",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=CM&backgroundColor=ac3d38",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=CM&backgroundColor=ac3d38",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#ac3d38",
+  "background_color": "#f3f7fa",
+  "orientation": "portrait"
+}

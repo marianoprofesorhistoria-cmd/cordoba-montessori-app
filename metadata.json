@@ -1,0 +1,7 @@
+{
+  "name": "Córdoba Montessori - Portal Docente",
+  "description": "Aplicación de gestión académica para docentes del Centro Integral Educativo Córdoba Montessori, permitiendo el seguimiento de alumnos, carga de notas y exportación de informes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
